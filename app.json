@@ -1,0 +1,14 @@
+{
+"name": "InterviewAce AI",
+"version": "1.0",
+"description": "AI-powered Interview Trainer using IBM Granite and LangFlow",
+"author": "Suvasini G",
+"domain": "Education",
+"problem_statement": "Interview Trainer Agent",
+"technology": [
+"IBM Granite",
+"LangFlow",
+"RAG",
+"Python"
+]
+}
